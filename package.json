@@ -1,0 +1,11 @@
+{
+  "name": "intermediate-folder-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marzuk16/express-folder-structure.git",
+  "author": "marzuk <marzuk.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
