@@ -1,2 +1,2 @@
 # expressjs-folder-structure
-This repository is express project folder structure. (Beginner, Intermediate, Advance)
+This is the express project folder structure's repository. (Beginner, Intermediate, Advance)
